@@ -526,7 +526,7 @@
     <string name="checking_updates_toast">Tjekker efter opdateringer…</string>
     <string name="recovering">Gendanner</string>
     <string name="feed_load_error_fast_unknown">\"Hurtig feed\"-tilstand viser ikke mere information om dette.</string>
-    <string name="manual_update_title">Tjek efter opdateringer</string>
+    <string name="check_for_updates">Tjek efter opdateringer</string>
     <string name="remove_watched_popup_title">Fjern sete videoer\?</string>
     <string name="disable_media_tunneling_summary">Deaktiver medietunneler hvis du oplever en sort skærm eller hak ved videoafspilning</string>
     <string name="error_report_open_github_notice">Venligst tjek om der allerede eksisterer en problemrapport som diskuterer dit crash. Hvis du opretter duplikatrapporter, tager du tid fra os som vi kunne bruge på at fikse fejlen.</string>
